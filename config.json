@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderdave",
+        "uuid": 7591992,
+        "checksum": "sjq559"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
